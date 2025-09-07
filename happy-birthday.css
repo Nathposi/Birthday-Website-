@@ -19,24 +19,29 @@ body {
 
 
 img[src="mum1.jpg"] {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    border: 20px groove goldenrod;
-    margin: 35px auto;
-    padding: 0;
-    display: block;
-  }
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border: 20px groove goldenrod;
+  margin: 20px auto;
+  display: inline-block;
+}
 
+section {
+  text-align: center;
+}
 
 img[src="mum2.jpg"] {
   width: 100%;
   max-width: 300px;
   height: auto;
   border: 20px groove goldenrod;
-  margin: 35px auto;
-  padding: 0;
-  display: block;
+  margin: 20px auto;
+  display: inline-block;
+}
+
+section {
+  text-align: center;
 }
 
 img[src="mum3.jpg"] {
@@ -44,7 +49,11 @@ img[src="mum3.jpg"] {
   max-width: 300px;
   height: auto;
   border: 20px groove goldenrod;
-  margin: 35px auto;
-  padding: 0;
-  display: block;
+  margin: 20px auto;
+  display: inline-block;
 }
+
+section {
+  text-align: center;
+}
+
