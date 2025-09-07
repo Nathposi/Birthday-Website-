@@ -1,0 +1,51 @@
+header, h2 {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  color: lightgray;
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: purple;
+}
+
+
+img[src="mum1.jpg"] {
+  max-width: 90%;
+  height: auto;
+  border: 20px solid;
+  border-style: groove;
+  border-color: goldenrod;
+  margin: 35px auto;
+  padding: 0px;
+  display: block;
+}
+
+img[src="mum2.jpg"] {
+  max-width: 90%;
+  height: auto;
+  border: 20px solid;
+  border-style: groove;
+  border-color: goldenrod;
+  margin: 35px auto;
+  padding: 0px;
+  display: block;
+}
+
+img[src="mum3.jpg"] {
+  max-width: 90%;
+  height: auto;
+  border: 20px solid;
+  border-style: groove;
+  border-color: goldenrod;
+  margin: 35px auto;
+  padding: 0px;
+  display: block;
+}
