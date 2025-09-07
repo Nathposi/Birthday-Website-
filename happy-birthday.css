@@ -17,35 +17,34 @@ body {
 }
 
 
+
 img[src="mum1.jpg"] {
-  max-width: 90%;
-  height: auto;
-  border: 20px solid;
-  border-style: groove;
-  border-color: goldenrod;
-  margin: 35px auto;
-  padding: 0px;
-  display: block;
-}
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border: 20px groove goldenrod;
+    margin: 35px auto;
+    padding: 0;
+    display: block;
+  }
+
 
 img[src="mum2.jpg"] {
-  max-width: 90%;
+  width: 100%;
+  max-width: 300px;
   height: auto;
-  border: 20px solid;
-  border-style: groove;
-  border-color: goldenrod;
+  border: 20px groove goldenrod;
   margin: 35px auto;
-  padding: 0px;
+  padding: 0;
   display: block;
 }
 
 img[src="mum3.jpg"] {
-  max-width: 90%;
+  width: 100%;
+  max-width: 300px;
   height: auto;
-  border: 20px solid;
-  border-style: groove;
-  border-color: goldenrod;
+  border: 20px groove goldenrod;
   margin: 35px auto;
-  padding: 0px;
+  padding: 0;
   display: block;
 }
